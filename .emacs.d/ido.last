@@ -1,0 +1,79 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jjulien/CPool/" . "CPool_Day03_2017/")
+ ("/home/jjulien/" . "CPool/")
+ ("/home/jjulien/test/test_repo/Le-MobaTapeTaupe/" . "style/")
+ ("/home/jjulien/projetB2/CPE_lemin_2017/" . "include/")
+ ("/home/jjulien/Desktop/cpp_basic/" . "include/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jjulien/CPool/CPool_Day03_2017/"
+ "/home/jjulien/test/test_repo/Le-MobaTapeTaupe/style/"
+ "/home/jjulien/infograph/autostereograme/include/"
+ "/home/jjulien/projetB2/CPE_lemin_2017/include/"
+ "/home/jjulien/Desktop/cpp_basic/include/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "my_isneg.c"
+ "main.css"
+ "ant.h"
+ "test.hpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jjulien/CPool/CPool_Day03_2017/" (23085 8355 555186 353000) "my_print_alpha.c" "#my_print_comb2.c#" "../" "my_print_revalpha.c" ".#my_isneg.c" "src/" "my_print_comb2.c" "my_print_comb.c~" "my_isneg.c" "a.out" "./" "my_print_digits.c" "my_print_comb2.c~" ".git/" "my_print_comb.c" "#my_isneg.c#")
+
+ ("/home/jjulien/CPool/CPool_Day01_2017/" (23003 8114 727634 15000) "task02/" "../" "task01/" "task07/" "push_that.sh" "task03/" "./" "mr_clean" ".git/")
+
+ ("/home/jjulien/CPool/" (23040 40249 248653 45000) "CPool_Day08_2017/" "CPool_rush1_2017/" "CPool_Day10_2017/" "CPool_bistro-matic_2017/" "CPool_rush_2017/" "CPool_bistro-matic_2017Bis/" "../" "CPool_match-nmatch_2017/" "CPool_Day01_2017/" "CPool_Day12_2017/" "CPool_Day02_2017/" "CPool_rush2_2017/" "CPool_Day11_2017/" "CPool_Day09_2017/" "CPool_Day07_2017/" "CPool_Tree_2017/" "CPool_Day05_2017/" "CPool_evalexpr_2017/" "CPool_Day03_2017/" "CPool_Day06_2017/" "CPool_infinadd_2017/" "CPool_Day04_2017/" "./" "CPool_finalstumper_2017/" "CPool_evalexpr_20170/")
+
+ ("/home/jjulien/" (23380 15381 128676 339000) ".wget-hsts" "Boost-trap/" ".cache/" ".local/" "test/" ".bashrc" "Templates/" ".xsession-errors.old" "stage" "Public/" "cacaprout/" ".gtk-bookmarks" "useless_problem.org" ".designer/" ".ICEauthority" "projetB1/" ".gimp-2.8/" ".xinitrc" "#.org#" "projetB2/" ".config/" ".thumbnails/" "pdf/" ".viminfo" ".bashrc~" ".emacs~" ".Xmodmap" ".esd_auth" ".zshrc" "Videos/" ".gnome/" "build/" "Music/" ".gitconfig" ".emacs" ".bashr" ".xsession-errors" "CQ/" "CPool/" ".emacs.d/" "Documents/" ".bash_history" "infograph/" ".bash_history~" "osu_lazer/" ".org" "lib/" "libc_graph_prog.so" ".ssh/" ".bash_logout" "caca" "Desktop/" ".graph_programming/" ".xscreensaver" ".adobe/" ".kde/" ".macromedia/" "Pictures/" ".bash_profile" ".xfce4-session.verbose-log.last" ".xemacs/" "installer/" "gitkraken/" ".pki/" ".history" ".mozilla/" "math/" "stumper/" "Criterion/" ".kshrc" "bin/" ".gitkraken/" ".claws-mail/" ".asunder" ".xfce4-session.verbose-log" ".lastpass/" "Downloads/" "delivery/" ".el" ".gnupg/" "VirtualBox VMs/" ".lesshst" "../" "./")
+
+ ("/home/jjulien/test/test_repo/Le-MobaTapeTaupe/sript/" (23374 62803 528559 797000) "../" "init.js" ".#gameManager.js" "./" "#gameManager.js#")
+
+ ("/home/jjulien/test/test_repo/Le-MobaTapeTaupe/" (23374 57870 149620 346000) "sript/" "style/" "../" "game.html" ".#game.html" "./" ".git/")
+
+ ("/home/jjulien/infograph/autostereograme/include/" (23330 9533 746053 4000) "ant.h" "structur.h" "window.h" "matrix.h" "autostereogram.h" "../" "depth_map.h" "frame_buffer.h" "./" "shape.h" "menu.h")
+
+ ("/home/jjulien/test/test_repo/Le-MobaTapeTaupe/style/" (23374 55904 857122 995000) "../" "./")
+
+ ("/home/jjulien/projetB2/CPE_lemin_2017/include/" (23238 83 831779 189000) "../" "lemin.h" "./" "my.h")
+
+ ("/home/jjulien/infograph/autostereograme/src/draw/shape/" (23320 63040 789717 305000) "../" "circle.c" "box.c" "rectangle.c" "./" "squar.c" ".#box.c")
+
+ ("/home/jjulien/infograph/autostereograme/src/window/menu/" (23320 1204 420742 112000) "../" "main_menu.c" "cursor.o" "main_menu.o" "cursor.c" "./")
+
+ ("/home/jjulien/infograph/my_rpg_2017/map_txt/" (23273 28044 685487 940000) "../" "map_spe" "./" "map_base")
+
+ ("/home/jjulien/Desktop/" (23275 34921 880808 496000) "thing/" "linux/" "#conference.org#" "Axiom Verge/" "podcast/" "../" "photo/" "Discord" "pres/" ".#conference.org" "avion1.png" "to_listen_to.org" "world/" "RICE.pdf" "thing.org" "Wallpaper/" "conference.html" "conference.org" "osu/" "key_window" "windows/" ".Diary/" "./" "https:__memegenerator_net_img_instances_64336815_fully-qualified-domain-names-fully-qualified-domain-names-everywhere_jpg.desktop" "to do.html" "elips/" "gimp/" "Discord_no/" "albums/")
+
+ ("/home/jjulien/projetB2/PSU_minishell2_2017/" (23243 35081 361336 109000) "include/" "GPATH" "my_printf/" "test/" "GRTAGS" "../" ".gitignore" "titi" "src/" "mysh" "Makefile" "GTAGS" "./" ".git/" "toto")
+
+ ("/home/jjulien/Desktop/pres/pres_emacs/" (23235 46819 952832 567000) "pres.html" "../" "pres.org" "common.css" "org-html-slideshow.js" "projection.css" "presenter.css" "img/" "./" "screen.css")
+
+ ("/home/jjulien/projetB2/CPE_lemin_2017/src/algo/" (23235 33058 331416 753000) "../" "init_graph.o" "tools.o" "init_graph.c" ".#init_graph.c" "./" "tools.c")
+
+ ("/home/jjulien/projetB2/CPE_lemin_2017/" (23235 30784 183899 106000) "include/" "GPATH" "thing" "GRTAGS" "lem_in" "../" "vgcore.19584" "vgcore.19571" "src/" "vgcore.19499" "lib/" "vgcore.18456" "Makefile" "GTAGS" "./" "vgcore.19319" ".git/" "vgcore.19265")
+
+ ("/home/jjulien/Boost-trap/PSU_my_exec2_2017/" (23234 24505 874992 280000) "include/" "GPATH" "my_printf/" "GRTAGS" "../" "src/" "Makefile" "GTAGS" "my_exec2" "./" ".git/")
+
+ ("/home/jjulien/Desktop/pres/org-html-slideshow/" (23230 37623 753925 261000) "example.html" "../" ".gitignore" "production/" "src/" "example-image.svg" "lib/" ".gitmodules" "project.clj" "./" ".git/" "example.org" "README.md")
+
+ ("/home/jjulien/infograph/my_world_2017/include/" (23195 36473 535536 313000) "#world.h#" "printf.h" "../" "get_next_line.h" "bouton.h" "world.h" "./" "my_colors.h" ".#world.h")
+
+ ("/home/jjulien/projetB2/CPE_matchstick_2017/" (23151 17278 953890 119000) "include/" "GPATH" "my_printf/" "GRTAGS" "../" ".#test" "ne" "src/" "Makefile" "GTAGS" "tmp" "./")
+
+ ("/home/jjulien/Desktop/cpp_basic/" (23145 55763 418985 8000) "include/" "../" "src/" "Makefile" "./")
+
+ ("/home/jjulien/Desktop/cpp_basic/include/" (23145 55289 401970 698000) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
